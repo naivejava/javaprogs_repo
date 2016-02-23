@@ -34,6 +34,8 @@ public class stringLessons {
 		
 		str.append("I live in Fawkner. ").append("I work in the IT field.");
 		
+		str.append ("Before I was living in Sydney. ");
+		
 		System.out.println(str.toString());
 		
 		//Next lesson: printf, like the in C language. Check all the formatting of the system.out.printf ...
