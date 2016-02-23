@@ -16,7 +16,7 @@ class SubClassLadyShoes extends SuperClassShoes {
 	
 	public void ladyShoes (){       //method
 		infoShoes ();
-		System.out.println("One of the types is ladies shoes.\n");
+		System.out.println("One of the types is ladies shoes.");
 		System.out.println("Another type is the girls shoes.\n");
 	}
 }
