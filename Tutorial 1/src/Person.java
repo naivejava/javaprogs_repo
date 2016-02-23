@@ -19,7 +19,7 @@ public class Person {
 		}
  
 	public static void main(String[] args) {
-		Person a = new Person(35, 7.50);
+		Person a = new Person(65, 7.50);
 	//	Person b = new Person(47, 8.20);
 
 	}
