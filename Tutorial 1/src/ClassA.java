@@ -16,6 +16,7 @@ class A {
 	A (int Val){     	// Constructor 
 		
 		this.a = Val;   //Assign the value of Val to the instance variable a;
+		this.a = Val + 2; //Made simple modification to experiment check-in check-out
 	}
 	
 	public void incrementA (){   //method
